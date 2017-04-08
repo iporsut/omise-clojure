@@ -1,2 +1,2 @@
 # omise-clojure
-Omise Clojure Client
+Omise Clojure Client (This is side project. Non-Official Support)
